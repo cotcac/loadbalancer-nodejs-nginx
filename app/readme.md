@@ -16,7 +16,7 @@ docker run -e "MESSAGE=First instance" -p 8081:3000 -d load-balanced-app
 docker run -e "MESSAGE=Second instance" -p 8082:3000 -d load-balanced-app
 ```
 ## Where
-- run mean run the images name load-balanced-app
+- run create a container name load-balanced-app from the image.
 - -e Enviroment key=value
 - -p Expose to the host compuater host-port:docker-port
 - -d Run on background

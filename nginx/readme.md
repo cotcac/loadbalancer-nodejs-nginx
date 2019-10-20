@@ -5,9 +5,9 @@ docker build -t load-balance-nginx .
 docker run -p 3006:80 -d load-balance-nginx
 ```
 # Where
-- build to build the iamges
-- -t tags the images
-- run Run the images
+- build to build the image
+- -t tags the image
+- run make an instance running container from the image
 - -p expose images ip to host machine.
 - -d run in background.
 - . Find Dockerfind in currect directory
