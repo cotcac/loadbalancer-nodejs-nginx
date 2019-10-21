@@ -6,7 +6,7 @@ Go to app and nginx directory to read document for each session.
 # Demo
 ![Alt][1]
 
-[1]: /load-balancer.gif "Title"
+[1]: /demo.gif "Title"
 
 Creadit:  
  https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/
