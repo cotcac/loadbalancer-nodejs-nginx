@@ -10,3 +10,4 @@ Go to app and nginx directory to read document for each session.
 
 Creadit:  
  https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/
+ https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/
